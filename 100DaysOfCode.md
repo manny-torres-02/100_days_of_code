@@ -16,7 +16,7 @@
 14. Leet Code  
 15. Solutions Architect 
 16. MGDNA 
-17.  
+17.  Worked on LEet code and front end challenges. 
 
 
 
