@@ -7,5 +7,16 @@
 5.  5/1 - Study AWS, Adjust the Garden District Site, LEetCode, Resume Work 
 6. Studied AWS 
 7. Front End Mentor Challenge. 
+8. MGDNA
+9. MGDNA  and Solutions Architect 
+10. Solutions Architect 
+11. MGDNA
+12. MGDNA Leet Code 
+13. Leet Code 
+14. Leet Code  
+15. Solutions Architect 
+16. MGDNA 
+17.  
+
 
 
